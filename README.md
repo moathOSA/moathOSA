@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moathosa&label=Profile%20views&color=0e75b6&style=flat" alt="moathosa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moathosa" alt="moathosa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Dynamic Portfolio Builder](Coming Soon…)
 
 - 🌱 I’m currently learning **Python And Django**
 
 - 📝 I regularly write articles on [https://medium.com/@moath-omarsa](https://medium.com/@moath-omarsa)
-
-- 💬 Ask me about **php, laravel, js, vue.js, sql, bootstrap**
 
 - 📫 How to reach me **moath.omarsa@gmail.com**
 
@@ -29,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moathosa&show_icons=true&locale=en" alt="moathosa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moathosa&" alt="moathosa" /></p>
+
